@@ -26,32 +26,6 @@ A high-performance **Real-Time Collaborative Multi-User Whiteboard Application**
 
 ---
 
-## 📁 Project Folder Structure
-
-```text
-📂 Assignment11/
-├── 📄 render.yaml
-├── 📄 vercel.json
-├── 📄 Assignment 11.txt
-├── 📄 README.md
-└── 📂 Samarth_Navale_150096725148/
-    ├── 📄 server.js
-    ├── 📄 package.json
-    ├── 📄 .env & .env.example
-    ├── 📄 .gitignore
-    ├── 📄 render.yaml & vercel.json
-    ├── 📄 README.md
-    ├── 📂 public/
-    │   ├── 📄 index.html
-    │   ├── 📄 canvas.js
-    │   └── 📄 styles.css
-    └── 📂 sockets/
-        ├── 📄 boardHandler.js
-        └── 📄 cursorHandler.js
-```
-
----
-
 ## 🛠️ Tech Stack & Dependencies
 
 - **Runtime:** Node.js
@@ -73,7 +47,6 @@ NODE_ENV=development
 ## 🧪 Testing
 
 ```bash
-cd Samarth_Navale_150096725148
 npm install
 npm test
 ```
